@@ -1,3 +1,3 @@
-module online-store-contracts
+module github.com/grommoovv/online-store-contracts
 
 go 1.21
